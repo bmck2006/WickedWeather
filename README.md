@@ -8,4 +8,4 @@ Android development project creating a local weather app for Worcester, MA. This
 - Background color scheme changes depending on weather data received from API. 
 - The weather data is based on the location of Worcester, MA. Future release will implement location services to receive weather data based on where the device is currently located. 
 
-View a video demonstration here: 
+View a video demonstration here: https://youtu.be/NZdkQUpxXgo
